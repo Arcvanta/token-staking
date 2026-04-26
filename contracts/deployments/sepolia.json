@@ -1,0 +1,11 @@
+{
+  "network": "sepolia",
+  "contracts": {
+    "StakingRouter": "0x029a978efaD53976Fe38f55A2E6CA5b855623A48",
+    "Adapters": {
+      "Uniswap": "0x9Fc253786f3F34c170Bbf280f0BCD904fFd5cefA",
+      "Aave": "0x1f40bD31DFC6125751696e560ED11092cf0C1afc",
+      "Lido": "0xd5b6A08a9de8f4EA45F20D4dECCE5d22970f901B"
+    }
+  }
+}
